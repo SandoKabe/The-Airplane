@@ -1,3 +1,12 @@
+
+
+
+
+
+[![Watch the video](https://drive.google.com/file/d/1QoBWm9-6fg-y5xZBblspYqQtyfFdqhyI/view?usp=sharing)](https://drive.google.com/file/d/1QoBWm9-6fg-y5xZBblspYqQtyfFdqhyI/view?usp=sharing)
+
+
+
 # Markown-memento
 Voici un petit fichier memento pour vous indiquer les principales syntaxes que vous pouvez utiliser en markdown.
 Pour voir les détails de la syntaxe, cliquez que l'icone d'édition de ce fichier.
