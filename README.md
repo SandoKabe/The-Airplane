@@ -3,7 +3,7 @@
 
 
 
-[![Watch the video](https://drive.google.com/file/d/1pLQyFp7dWA7KhpPEyTZVbyJKxOzhR-bb/view?usp=sharing)](https://drive.google.com/file/d/1pLQyFp7dWA7KhpPEyTZVbyJKxOzhR-bb/view?usp=sharing){:target="_blank" rel="noopener"}
+[![Watch the video](https://drive.google.com/file/d/1pLQyFp7dWA7KhpPEyTZVbyJKxOzhR-bb/view?usp=sharing)](https://drive.google.com/file/d/1pLQyFp7dWA7KhpPEyTZVbyJKxOzhR-bb/view?usp=sharing){:target="_blank"}
 
    
 
