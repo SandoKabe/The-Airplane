@@ -3,9 +3,7 @@
 
 
 
-[![Watch the video](https://drive.google.com/file/d/1QoBWm9-6fg-y5xZBblspYqQtyfFdqhyI/view?usp=sharing)](https://drive.google.com/file/d/1QoBWm9-6fg-y5xZBblspYqQtyfFdqhyI/view?usp=sharing)
-
-
+[![Watch the video](https://drive.google.com/file/d/1pLQyFp7dWA7KhpPEyTZVbyJKxOzhR-bb/view?usp=sharing)]{:target="_blank"}
 
 # Markown-memento
 Voici un petit fichier memento pour vous indiquer les principales syntaxes que vous pouvez utiliser en markdown.
